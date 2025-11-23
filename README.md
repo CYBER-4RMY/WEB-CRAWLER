@@ -4,7 +4,7 @@ An elite, asynchronous, high-performance web crawler built with Python — tailo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20With-Python%203.8%2B-blue?style=flat-square" />
-  <img src="https://img.shields.io/github/license/cyber-mrinal/web-crawler?style=flat-square" />
+  <img src="https://img.shields.io/github/license/CYBER-4RMY/web-crawler?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
 </p>
 
@@ -29,7 +29,7 @@ An elite, asynchronous, high-performance web crawler built with Python — tailo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/CYBER-MRINAL/WEB-CRAWLER.git
+git clone https://github.com/CYBER-4RMY/WEB-CRAWLER.git
 cd WEB-CRAWLER
 ````
 
@@ -156,8 +156,6 @@ chmod +x elite_crawler.py
 
 For discussions, help, or suggestions:
 
-🔗 Telegram Group → [Cyber Mrinal Group](https://t.me/cybermrinalgroup/3)
-
 📬 GitHub Issues → Submit feature requests or bugs
 
 ---
@@ -178,5 +176,5 @@ MIT License — feel free to modify, reuse, and contribute.
 
 ---
 
-Made with 🐍 by [CYBER-MRINAL](https://github.com/CYBER-MRINAL)
+Made with 🐍 by [CYBER-4RMY](https://github.com/CYBER-4RMY)
 
