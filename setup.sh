@@ -2,7 +2,7 @@
 
 # ─────────────────────────────────────────────────────────────────
 # WEB-CRAWLER INSTALLER v1.0
-# Author: CYBER-MRINAL
+# Author: CYBER-4RMY
 # Description: Installs all dependencies and sets up the web crawler
 # ─────────────────────────────────────────────────────────────────
 

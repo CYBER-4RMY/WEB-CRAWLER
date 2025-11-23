@@ -14,8 +14,7 @@ import re
 init(autoreset=True)
 
 class EliteCrawler:
-    def __init__(self, base_url, max_depth, output_file, user_agents, delay,
-                 concurrency, keywords, ignore_robots, domain_scope, url_budget):
+    def __init__(self, base_url, max_depth, output_file, user_agents, delay, concurrency, keywords, ignore_robots, domain_scope, url_budget):
         self.base_url = base_url.rstrip('/')
         self.max_depth = max_depth
         self.output_file = output_file
